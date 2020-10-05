@@ -1,7 +1,7 @@
 # python_intro
 Intro to Python
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnkurDedania/python_intro.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnkurDedania/python_training.git/master)
 
 ## NOTE: If you are unable to set up the environment to run the training material, please use the Binder link above to build a stand alone container. This will allow you to go through the notebooks. However, this should not be used for active development! Also, I would recomend forking this repo if you intent to use the Binder launch link.
 
@@ -10,7 +10,7 @@ This repo contains a series of jupyter notebooks with documented data model exam
 
 
 ## Installation
-Clone this repository: `git clone https://github.com/AnkurDedania/python_intro.git`<br />
+Clone this repository: `git clone https://github.com/AnkurDedania/python_training.git`<br />
 
 Package installation
 `pip install jupyter pandas numpy`
